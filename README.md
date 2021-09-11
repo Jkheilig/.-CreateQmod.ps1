@@ -1,3 +1,3 @@
 # .-CreateQmod.ps1
 Download
-./buildQmod.ps1
+[.-CreateQmod.ps1](./buildQmod.ps1)
